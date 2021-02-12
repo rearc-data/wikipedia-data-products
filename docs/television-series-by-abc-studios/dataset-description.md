@@ -1,0 +1,1 @@
+This product contains all pages of Wikipedia tagged with category "Television series by ABC Studios" or one of its subcategories up to depth of 5 retrieved from the WikiPedia (English Language) at https://en.wikipedia.org/. Each dataset in the product includes an index file for reference. The update frequency is Annual.
